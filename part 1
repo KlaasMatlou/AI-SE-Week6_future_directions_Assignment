@@ -32,4 +32,30 @@ Data Security: With vast amounts of sensitive data being transmitted and stored,
 Interoperability and Standardization: Smart cities deploy diverse devices from various manufacturers. Without standard protocols, integrating and maintaining these heterogeneous systems becomes complex and prone to failure.
 
 
+QUESTION 3: 
+Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?
 
+ANSWER:
+-Human-AI Collaboration means people and AI work together to improve care.
+-AI helps by doing repetitive tasks fast, like reading X-rays or tracking patient records.
+-Radiologists can focus more on diagnosis since AI flags issues.
+-Nurses get help with monitoring patients and managing schedules.
+
+Impact: Jobs change, but don’t disappear. Humans still make final decisions. Patients may get better, faster care.
+
+
+TASK 2: CASE STUDY CRITIQUES: 
+
+TOPIC: AI in Smart Cities
+    Analyze: How does integrating AI with IoT improve urban sustainability? Identify two challenges (e.g., data security).
+
+
+AI + IoT improves sustainability by:
+-Making traffic flow smoother → less fuel used
+-Reducing pollution and travel time
+-Lowering energy use in street lights and public transport
+
+Two Challenges:
+
+-Data Security: Lots of personal data collected → risk of hacking
+-High Cost: Setting up AI and IoT systems is expensive for cities

@@ -10,10 +10,12 @@ This repository contains all deliverables for the Week6 assignment of **AI in So
 - AI-driven IoT concept  
 - Ethics in personalized medicine  
 - Futuristic AI application for 2030  
+- Case study critiques; Analysis on AI in Smart Cities
 
 ## 📘 File Descriptions
 
 ### 1. `TASK1.md` – *Part 1: Theoretical Analysis*
+### 2. `Task 2` -   *Task 2 of part 1:Analysis of AI/IoT integration Sustainability. 
 
 Includes short answers to three key questions:
 
